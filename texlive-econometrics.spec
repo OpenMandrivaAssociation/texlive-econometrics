@@ -1,6 +1,6 @@
 Name:		texlive-econometrics
 Version:	39396
-Release:	1
+Release:	2
 Summary:	Defines some commands that simplify mathematic notation in economic and econometric writing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/econometrics
