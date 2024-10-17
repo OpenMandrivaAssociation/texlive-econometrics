@@ -3,7 +3,7 @@ Version:	39396
 Release:	2
 Summary:	Defines some commands that simplify mathematic notation in economic and econometric writing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/econometrics
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/econometrics
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/econometrics.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/econometrics.doc.r%{version}.tar.xz
